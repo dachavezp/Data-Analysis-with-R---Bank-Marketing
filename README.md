@@ -1,7 +1,3 @@
-About Dataset
-Bank marketing campaigns dataset analysis # Opening a Term Deposit
-It is a dataset that describing Portugal bank marketing campaigns results.
-Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit.
-If after all marking afforts client had agreed to place deposit - target variable marked 'yes', otherwise 'no'
+This project contains a detailed analysis of a bank's marketing campaign data. The primary objective of this analysis is to understand the effectiveness of different marketing strategies and to provide data-driven recommendations for future campaigns. Through a comprehensive examination of demographic trends, response rates by job category, and the impact of marital status on conversion rates, we aim to identify key factors that influence the success of marketing efforts.
 
-Sourse of the data
+The analysis also delves into the implications of using sampled data to derive insights. By employing various sampling methods, such as Simple Random Sampling, Stratified Sampling, and Cluster Sampling, we evaluate their effectiveness in representing the entire dataset and how they influence decision-making processes.
